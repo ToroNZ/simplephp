@@ -1,4 +1,4 @@
 <?php
 
-echo "<h1>Hello, Northeast PHP";
-echo "<h1><br>Hello, Northeast PHP";
+echo "<h1>Hola, amigo!";
+echo "<h1><br>Me llamo PHP";
